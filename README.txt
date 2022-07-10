@@ -1,2 +1,1 @@
-https://maipyon.net/programming/portfolio-template/
-このテンプレについての説明が記載されている
+This is a website that I've tried to improve.
